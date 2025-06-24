@@ -1,8 +1,6 @@
-CLAY & CRAFT RENOVATIONS
+# Clay & Craft Renovations
 
-EMPLOYEE HANDBOOK: IT POLICIES
-
-EXECUTIVE SUMMARY
+## Executive Summary
 
 This document presents three critical Information Technology policies for Clay & Craft Renovations’ Employee Handbook: the Acceptable Use Policy for Information Technology, Work From Home Policy, and Digital Media Sanitization, Reuse, & Destruction Policy. As an internationally recognized firm specializing in smart home technology integration while preserving architectural integrity, Clay & Craft Renovations must maintain robust IT governance to protect both company and client information assets.
 Our operations across Delaware, Maryland, and Pennsylvania require these comprehensive policies to address emerging cybersecurity threats, ensure regulatory compliance, and protect the proprietary design techniques and client data that form the foundation of our competitive advantage. The integration of IoT technologies into historical renovations creates unique security challenges that these policies directly address.
